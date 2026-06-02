@@ -1,0 +1,8 @@
+# Python virtual environment folder ko ignore karne ke liye
+venv/
+
+# Python cache folders ko ignore karne ke liye
+__pycache__/
+
+# Private environment variables file ko ignore karne ke liye
+.env
